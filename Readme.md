@@ -1,7 +1,5 @@
 # UDP Unixsocket Chat server
 
-By Lukas Becker lukas.becker@haw-hamburg.de
-
 ## Build
 
 Compile with make. Resulting binaries are uchat.bin and uchat_ser.bin.
