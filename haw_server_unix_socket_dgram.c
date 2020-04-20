@@ -1,4 +1,4 @@
-/* UChat Server by Lukas Becker
+/* UChat Server by stoertebeker
 UNIX Datagram Socket chat server
 Usage: ./uchat_ser <num clients>
 */
