@@ -1,4 +1,4 @@
-/* UChat Client by Lukas Becker
+/*
 UNIX Datagram Socket chat 
 Usage: ./uchat [username] 
 */
